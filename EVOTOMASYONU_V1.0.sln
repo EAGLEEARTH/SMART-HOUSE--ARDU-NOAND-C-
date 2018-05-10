@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EVOTOMASYONU_V1.0", "EVOTOMASYONU_V1.0\EVOTOMASYONU_V1.0.vdproj", "{E1983CBD-D206-4104-B3C1-FAB56266FC49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1983CBD-D206-4104-B3C1-FAB56266FC49}.Debug|Default.ActiveCfg = Debug
+		{E1983CBD-D206-4104-B3C1-FAB56266FC49}.Debug|Default.Build.0 = Debug
+		{E1983CBD-D206-4104-B3C1-FAB56266FC49}.Release|Default.ActiveCfg = Release
+		{E1983CBD-D206-4104-B3C1-FAB56266FC49}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DE20D72-5F1E-48D5-86E8-46EE0C7CE496}
+	EndGlobalSection
+EndGlobal
